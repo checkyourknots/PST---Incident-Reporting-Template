@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>d40e2fe16389c15c2a73d7604727bf9de569e09b9f99426bb8dd5e682fe5d6bb</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>6f6db236ae7dd210a45c447dd0fbe1e5</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_element action="INSERT_OR_UPDATE"><element>major_case_state</element><position>0</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_941!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_440!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_942!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_440!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>recipient_list</element><position>2</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_943!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_440!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>3</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_944!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_440!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>business_impact</element><position>4</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_945!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_440!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>probable_cause</element><position>5</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_946!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_440!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Major Case Information</caption><header>false</header><name>!!!table_name_1!!!</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_440!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><sys_user/><title>false</title><view display_value="Major Case" name="major_case">1fb046c4ff301210163df28a7c4fd9c7</view><view_name/></sys_ui_section></record_update>]]></serialized_record>
+        <source_class>sys_ui_section</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>Major Case Information</source_name>
+        <source_sys_id>c8e5c946c7511a50c536b341fecd51bc</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:21:53</sys_created_on>
+        <sys_id>24fd723eaa7dd2104cc8cb91ff84e971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ui_section</sys_name>
+        <sys_package display_value="Pub Sub Incident Reporting Template" source="x_snc_pub_sub_in_1">736d7af6977dd210e328f01de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sub Incident Reporting Template">736d7af6977dd210e328f01de053af7d</sys_scope>
+        <sys_update_name>sys_app_scan_payload_24fd723eaa7dd2104cc8cb91ff84e971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:21:53</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

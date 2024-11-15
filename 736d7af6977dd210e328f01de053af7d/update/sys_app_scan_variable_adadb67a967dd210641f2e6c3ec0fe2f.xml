@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="INSERT_OR_UPDATE">
+        <name>sys_id_165</name>
+        <original_value>08e50d467e511a50bcffe7b2dd096636</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>6f6db236ae7dd210a45c447dd0fbe1e5</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:20:35</sys_created_on>
+        <sys_id>adadb67a967dd210641f2e6c3ec0fe2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_id_165</sys_name>
+        <sys_package display_value="Pub Sub Incident Reporting Template" source="x_snc_pub_sub_in_1">736d7af6977dd210e328f01de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sub Incident Reporting Template">736d7af6977dd210e328f01de053af7d</sys_scope>
+        <sys_update_name>sys_app_scan_variable_adadb67a967dd210641f2e6c3ec0fe2f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:20:35</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Reference">242d82a65bea101001fb0c370581c7ea</type>
+        <variable_hash>7e3ab19912ebab33c6d2fca374938a9e68ac91dcd39ce3c7e9d8e606616347ab</variable_hash>
+    </sys_app_scan_variable>
+</record_update>

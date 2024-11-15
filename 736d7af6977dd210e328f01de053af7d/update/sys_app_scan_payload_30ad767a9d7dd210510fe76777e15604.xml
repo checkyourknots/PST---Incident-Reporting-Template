@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>e19445b255e95a72babb71f90dc29e3467029adb21e51b1dc94a4420f95a529c</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>6f6db236ae7dd210a45c447dd0fbe1e5</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>500</order><published_ref/><question display_value="">!!!sys_id_54!!!</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_152!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><text>Assault</text><value>assault</value></question_choice><fx_price action="delete_multiple" query="id=34ad367a977dd210e328f01de053aff9"/></record_update>]]></serialized_record>
+        <source_class>question_choice</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>Assault</source_name>
+        <source_sys_id>764a204affe55610163df28a7c4fd926</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:20:33</sys_created_on>
+        <sys_id>30ad767a9d7dd210510fe76777e15604</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>question_choice</sys_name>
+        <sys_package display_value="Pub Sub Incident Reporting Template" source="x_snc_pub_sub_in_1">736d7af6977dd210e328f01de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sub Incident Reporting Template">736d7af6977dd210e328f01de053af7d</sys_scope>
+        <sys_update_name>sys_app_scan_payload_30ad767a9d7dd210510fe76777e15604</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:20:33</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

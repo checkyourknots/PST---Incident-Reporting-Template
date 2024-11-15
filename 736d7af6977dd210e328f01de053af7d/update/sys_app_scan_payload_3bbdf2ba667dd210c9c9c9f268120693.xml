@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>b5d5458a7a43e0b9c1ca5cd95e09ff72dc9011dd24338031325deed027d06129</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>6f6db236ae7dd210a45c447dd0fbe1e5</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="">!!!app_sys_id!!!</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_370!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><target_name>sc_cat_item_producer</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></serialized_record>
+        <source_class>sys_scope_privilege</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>sc_cat_item_producer</source_name>
+        <source_sys_id>80e5c9468f511a504ba30a38543501f2</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:21:01</sys_created_on>
+        <sys_id>3bbdf2ba667dd210c9c9c9f268120693</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_scope_privilege</sys_name>
+        <sys_package display_value="Pub Sub Incident Reporting Template" source="x_snc_pub_sub_in_1">736d7af6977dd210e328f01de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sub Incident Reporting Template">736d7af6977dd210e328f01de053af7d</sys_scope>
+        <sys_update_name>sys_app_scan_payload_3bbdf2ba667dd210c9c9c9f268120693</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:21:01</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

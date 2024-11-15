@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>ee3d3eca56a83f63e5274d49b698e973452c42079c393b4bfb5a4c8f1e3cf8df</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>6f6db236ae7dd210a45c447dd0fbe1e5</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><database><element active="1" array="0" attributes="" audit="0" calculation="" choice="0" choice_field="" choice_table="" create_roles="" default_value="" delete_roles="" dependent="" dependent_on_field="" display="number" dynamic_creation="0" dynamic_creation_script="" dynamic_default_value="" dynamic_ref_qual="" element_reference="0" extends="sn_gsm_government_service_case" filterable="1" foreign_database="" function_definition="" function_field="0" groupable="1" help="" hint="Defines and manages Government Service Cases" i18n_sortable="1" internal_type="collection" label="{program name} Questions" language="en" mandatory="0" matchable="1" max_length="40" multi_text="0" name="!!!table_name_1!!!" plural="{program name} Questions" primary="0" read_only="0" read_roles="" reference="" reference_cascade_rule="" reference_floats="0" reference_key="" reference_qual="" reference_qual_condition="" reference_type="" sizeclass="0" sortable="1" spell_check="0" staged="0" sys_package="afd58946ec511a503fa07a799d7339cb" sys_scope="afd58946ec511a503fa07a799d7339cb" table_reference="0" text_index="0" type="0" type_description="collection" unique="0" url="" url_target="" use_dynamic_default="0" use_reference_qualifier="simple" virtual="0" widget="" write_roles="" xml_view="0"/></database>]]></serialized_record>
+        <source_class>sys_db_object</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>Pub Sub In 0 Template Questions</source_name>
+        <source_sys_id>dce50d46ff511a50163df28a7c4fd957</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:19:44</sys_created_on>
+        <sys_id>347dfaf6c37dd2102e8073d2df4bd669</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_db_object</sys_name>
+        <sys_package display_value="Pub Sub Incident Reporting Template" source="x_snc_pub_sub_in_1">736d7af6977dd210e328f01de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sub Incident Reporting Template">736d7af6977dd210e328f01de053af7d</sys_scope>
+        <sys_update_name>sys_app_scan_payload_347dfaf6c37dd2102e8073d2df4bd669</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:19:44</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

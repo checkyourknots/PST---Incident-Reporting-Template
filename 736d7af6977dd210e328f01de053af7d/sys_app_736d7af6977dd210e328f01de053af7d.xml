@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created/>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>0c7dbaf6977dd210e328f01de053af1e</logo>
+        <menu/>
+        <name>Pub Sub Incident Reporting Template</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_pub_sub_in_1</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Template for creating incidents/issue reporting for any agency.</short_description>
+        <source>x_snc_pub_sub_in_1</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:19:39</sys_created_on>
+        <sys_id>736d7af6977dd210e328f01de053af7d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:19:40</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=736d7af6977dd210e328f01de053af7d"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <encryption_context/>
+        <file_name>employee-safety-icon.svg</file_name>
+        <hash>3e1fd3a0b5fb0c12c9931b14974e604a4f718438ec6413a82f35f7869814b49e</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>7682</size_bytes>
+        <size_compressed>3365</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:19:40</sys_created_on>
+        <sys_id>0c7dbaf6977dd210e328f01de053af1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:19:40</sys_updated_on>
+        <table_name>ZZ_YYsys_app</table_name>
+        <table_sys_id>736d7af6977dd210e328f01de053af7d</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="employee-safety-icon.svg" sys_id="0c7dbaf6977dd210e328f01de053af1e">0c7dbaf6977dd210e328f01de053af1e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:19:40</sys_created_on>
+        <sys_id>c87dbaf6977dd210e328f01de053af1f</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4476</length>
+        <position>1</position>
+        <sys_attachment display_value="employee-safety-icon.svg" sys_id="0c7dbaf6977dd210e328f01de053af1e">0c7dbaf6977dd210e328f01de053af1e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:19:40</sys_created_on>
+        <sys_id>407dbaf6977dd210e328f01de053af20</sys_id>
+    </sys_attachment_doc>
+</record_update>

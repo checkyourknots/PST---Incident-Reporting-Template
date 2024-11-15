@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>39ca503221b48946b0b580f00b0b093a9b4c96c135318cf2ed61243360b1b057</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>6f6db236ae7dd210a45c447dd0fbe1e5</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>100</order><published_ref/><question display_value="">!!!sys_id_12!!!</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_148!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><text>Change the Service Desk Name and or Description</text><value>change_product</value></question_choice><fx_price action="delete_multiple" query="id=30ad367a977dd210e328f01de053af91"/></record_update>]]></serialized_record>
+        <source_class>question_choice</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>Change the Service Desk Name and or Description</source_name>
+        <source_sys_id>08e50d468d511a503ead64860e8f7339</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:20:32</sys_created_on>
+        <sys_id>b8ad367a8c7dd210fbbf825735c0b1b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>question_choice</sys_name>
+        <sys_package display_value="Pub Sub Incident Reporting Template" source="x_snc_pub_sub_in_1">736d7af6977dd210e328f01de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sub Incident Reporting Template">736d7af6977dd210e328f01de053af7d</sys_scope>
+        <sys_update_name>sys_app_scan_payload_b8ad367a8c7dd210fbbf825735c0b1b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:20:32</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

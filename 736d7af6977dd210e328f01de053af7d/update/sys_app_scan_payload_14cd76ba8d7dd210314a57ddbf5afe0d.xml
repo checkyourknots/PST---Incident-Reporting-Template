@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>401f8cf6182345b0840372a0add0a37262e3d863222748c45d5ca8b7680498ed</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>6f6db236ae7dd210a45c447dd0fbe1e5</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group"><sys_suggestion_reader_group action="INSERT_OR_UPDATE"><click_in_mode>true</click_in_mode><context_config_id/><limit>5</limit><order>200</order><section_header>Popular searches</section_header><suggestion_type>Popular Search Reader Group for Starter Workspace - Workspace Search</suggestion_type><sys_class_name>sys_suggestion_reader_group</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_93!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_suggestion_reader_group></record_update>]]></serialized_record>
+        <source_class>sys_suggestion_reader_group</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>Popular Search Reader Group for Starter Workspace - Workspace Search</source_name>
+        <source_sys_id>48e50d460d511a502377ab9eab67b841</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:21:03</sys_created_on>
+        <sys_id>14cd76ba8d7dd210314a57ddbf5afe0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_suggestion_reader_group</sys_name>
+        <sys_package display_value="Pub Sub Incident Reporting Template" source="x_snc_pub_sub_in_1">736d7af6977dd210e328f01de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sub Incident Reporting Template">736d7af6977dd210e328f01de053af7d</sys_scope>
+        <sys_update_name>sys_app_scan_payload_14cd76ba8d7dd210314a57ddbf5afe0d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:21:03</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

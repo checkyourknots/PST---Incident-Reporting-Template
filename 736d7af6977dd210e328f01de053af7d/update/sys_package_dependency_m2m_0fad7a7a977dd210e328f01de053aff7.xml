@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Business Location" source="sn_bus_loc">919c6622b3930010700b4d43c6a8dc1b</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:20:42</sys_created_on>
+        <sys_id>0fad7a7a977dd210e328f01de053aff7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Pub Sub Incident Reporting Template" source="x_snc_pub_sub_in_1">736d7af6977dd210e328f01de053af7d</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:20:42</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

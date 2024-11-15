@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>f51fb1c949c524b0a217cbb12dd20e0edb0628631816fc1122a9c2606a1fb911</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>6f6db236ae7dd210a45c447dd0fbe1e5</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config/><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent display_value="Knowledge View">3094297373311010b29f2e46fbf6a7a1</macroponent><macroponent_config>{&#13;
+  "label" : "",&#13;
+  "bare" : true,&#13;
+  "scrollable" : "y",&#13;
+  "headerLevel" : "1",&#13;
+  "interceptNotifications" : false,&#13;
+  "propagateNotifications" : false,&#13;
+  "views" : "",&#13;
+  "selectedTabIndex" : 0,&#13;
+  "table" : "",&#13;
+  "sysId" : ""&#13;
+}</macroponent_config><name>KB default</name><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="">!!!sys_id_1074!!!</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_1075!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=450eba3e977dd210e328f01de053afae"/></record_update>]]></serialized_record>
+        <source_class>sys_ux_screen</source_class>
+        <source_id>afd58946ec511a503fa07a799d7339cb</source_id>
+        <source_name>KB default</source_name>
+        <source_sys_id>ffd5c946d5511a50cb786d818f583b10</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:22:12</sys_created_on>
+        <sys_id>c50eba3e6e7dd2102ffbf385850771bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_screen</sys_name>
+        <sys_package display_value="Pub Sub Incident Reporting Template" source="x_snc_pub_sub_in_1">736d7af6977dd210e328f01de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sub Incident Reporting Template">736d7af6977dd210e328f01de053af7d</sys_scope>
+        <sys_update_name>sys_app_scan_payload_c50eba3e6e7dd2102ffbf385850771bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:22:12</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

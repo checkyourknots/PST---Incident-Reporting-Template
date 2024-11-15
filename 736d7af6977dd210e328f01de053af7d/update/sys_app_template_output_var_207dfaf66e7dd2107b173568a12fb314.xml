@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_output_var">
+    <sys_app_template_output_var action="INSERT_OR_UPDATE">
+        <default/>
+        <description/>
+        <flow_output_variable display_value="app_sys_id">ac7dbaf6977dd210e328f01de053afe6</flow_output_variable>
+        <label>app_sys_id</label>
+        <name>app_sys_id</name>
+        <sys_class_name>sys_app_template_output_var</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 03:19:43</sys_created_on>
+        <sys_id>207dfaf66e7dd2107b173568a12fb314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>app_sys_id</sys_name>
+        <sys_package display_value="Pub Sub Incident Reporting Template" source="x_snc_pub_sub_in_1">736d7af6977dd210e328f01de053af7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sub Incident Reporting Template">736d7af6977dd210e328f01de053af7d</sys_scope>
+        <sys_update_name>sys_app_template_output_var_207dfaf66e7dd2107b173568a12fb314</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:19:43</sys_updated_on>
+        <template display_value="Pub Sub Incident Reporting Template">587d7af6517dd210f8cb664b028f0da2</template>
+        <type>string</type>
+    </sys_app_template_output_var>
+</record_update>
